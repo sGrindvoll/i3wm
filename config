@@ -275,6 +275,10 @@ bindsym Mod4+g exec google-chrome
 # Nautilus keybinding
 bindsym Mod4+f exec nautilus
 
+# Change keyboard layout
+bindsym Mod4+Ctrl+Shift+d     exec setxkbmap no dvorak  # Change to dvorak layout
+bindsym Mod4+Ctrl+Shift+n     exec setxkbmap no         # Change to norwegian layout
+
 ##  Things to start with i3
 # Always set wallpaper
 exec_always feh --bg-scale /media/sindre/storage/gallery/wp2160/wp2160/wallhaven-179391.jpg
