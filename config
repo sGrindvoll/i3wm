@@ -276,7 +276,7 @@ bindsym Mod4+g exec google-chrome
 bindsym Mod4+f exec nautilus
 
 # Change keyboard layout
-bindsym Mod4+Ctrl+Shift+d     exec setxkbmap no dvorak  # Change to dvorak layout
+bindsym Mod4+Ctrl+Shift+h     exec setxkbmap no dvorak  # Change to dvorak layout
 bindsym Mod4+Ctrl+Shift+n     exec setxkbmap no         # Change to norwegian layout
 
 ##  Things to start with i3
